@@ -284,14 +284,6 @@
   border: 1px solid var(--product-bg-milkshakes);
 }
 
-.modal-product_field:not(:placeholder-shown):invalid {
-  border: 3px solid var(--val-invalid);
-}
-
-.modal-product_field:not(:placeholder-shown):valid {
-  border: 3px solid var(--button-hover-color);
-}
-
 .modal-product_label {
   position: absolute;
   top: 21px;
@@ -320,6 +312,14 @@
 
     font-size: 12px;
   }
+}
+
+.modal-product_field:not(:placeholder-shown):invalid {
+  border: 3px solid var(--val-invalid);
+}
+
+.modal-product_field:not(:placeholder-shown):valid {
+  border: 3px solid var(--button-hover-color);
 }
 
 .span_ingredients {
