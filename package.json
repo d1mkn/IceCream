@@ -2,20 +2,20 @@
   "name": "icecream",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://d1mkn.github.io/IceCream.git/",
+  "homepage": "https://d1mkn.github.io/IceCream/",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /IceCream.git/"
+    "build": "parcel build src/*.html --public-url /IceCream/"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/goitacademy/parcel-project-template.git"
+    "url": "git+https://d1mkn.github.io/IceCream/.git"
   },
   "keywords": [],
   "author": "Alexander Repeta <alexander.repeta@gmail.com>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/goitacademy/parcel-project-template/issues"
+    "url": "https://d1mkn.github.io/IceCream/.git"
   },
   "dependencies": {
     "jquery": "^3.6.3",
