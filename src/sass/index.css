@@ -1,5 +1,4 @@
 @import '~node_modules/modern-normalize/modern-normalize.css';
-@import './index.scss';
 :root {
   /* Fonts */
   --main-font: 'Montserrat', sans-serif;
