@@ -81,8 +81,6 @@
 }
 
 .buy-now__gradient {
-  @extend %cursor;
-
   position: absolute;
   top: -61px;
   left: -2px;
@@ -128,8 +126,6 @@
 }
 
 .buy-now__name {
-  @extend %cursor;
-
   @extend %text;
   position: relative;
   top: -40px;
@@ -147,8 +143,6 @@
 }
 
 .buy-now__img {
-  @extend %cursor;
-
   position: absolute;
   top: -71px;
   left: -2px;
@@ -306,7 +300,6 @@
 }
 
 .modal__checkbox {
-  @extend %cursor;
   width: 102%;
   height: 102%;
   border-radius: 15px;
